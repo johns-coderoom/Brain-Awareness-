@@ -1,5 +1,5 @@
 # 1st Scientific Conference for high school students : Do you know your brain?-
-# Brain Awareness Week: Scientific Conference for Children
+# Brain Awareness Week: Scientific Conference for high school students 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -16,7 +16,7 @@ The conference was modelled on a real academic conference, featuring keynotes fr
 
 ## 🎯 Key Features & Deliverables
 
-*   **Hybrid Conference Model:** Successfully combined in-person workshops and online expert lectures.
+*   **In- person Conference Model:** Successfully combined in-person workshops and online expert lectures.
 *   **Multi-Age Curriculum:** Designed and delivered tailored content for audiences from nursery (age 3) to high school (age 18+).
 *   **Student-Led Competitions:** Hosted two main competitions:
     *   **3D Model Creation:** Building a brain or neuron from various materials.
@@ -40,7 +40,7 @@ This repository contains the following key documents:
 
 | Metric | Target | Actual Outcome |
 | :--- | :--- | :--- |
-| Total Participants | 400+ | **~773** |
+| Total Participants | 300+ | **~353** |
 | Student Presentations | 5+ | **12** |
 | 3D Models Created | 10+ | **15** |
 | Posters Presented | 15+ | **20+** |
@@ -77,7 +77,7 @@ Organizing this conference provided invaluable insights into project management,
 
 ## 👤 Project Lead
 
-This project was conceived and led by **[Your Name]**, as part of a commitment to advancing science education and public outreach.
+This project was conceived and led by **[John Senanu]**, as part of a commitment to advancing science education and public outreach.
 
 *   **Email:** [johnsenanu36@gmail.com]
   

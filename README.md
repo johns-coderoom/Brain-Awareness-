@@ -50,8 +50,8 @@ This repository contains the following key documents:
 
 ## 👥 Target Audience & DEI
 
-The project was designed for the entire **Zespół Szkół Prywatnych** community:
-*   **Primary:** Students (ages 3-18), segmented into nursery, primary, and high school groups.
+The project was designed for the ** Accra** community:
+*   **Primary:** Students (ages 14-18), segmented into junior high and senior high school groups.
 *   **Secondary:** Teachers, staff, and students' family members.
 
 **Diversity, Equity, and Inclusion (DEI) measures included:**

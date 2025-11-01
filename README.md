@@ -62,7 +62,7 @@ A large-scale, interdisciplinary educational project designed to demystify neuro
 This portfolio details the organization, execution, and outcomes of the **"Do you know your brain?"** conference, held during Brain Awareness Week. The project transformed a standard school environment into a dynamic hub of scientific inquiry, directly engaging over 770 students, teachers, and family members.
 
 The conference was modelled on a real academic conference, featuring keynotes from international experts, student presentations, hands-on workshops, a 3D model gallery, and a poster session. Its primary goal was to expand knowledge of the human brain and foster a lifelong passion for science in a diverse, age-appropriate manner.
-
+https://photos.app.goo.gl/bPoymbaraYMt1qY89
 ## 🎯 Key Features & Deliverables
 
 *   **Hybrid Conference Model:** Successfully combined in-person workshops and online expert lectures.

@@ -24,6 +24,7 @@ The conference was modelled on a real academic conference, featuring keynotes fr
 *   **Interactive "Gallery Walk":** A dedicated space showcasing all student competition entries.
 *   **Poster Session:** A formal session where students presented their research posters to peers.
 *   **Community Engagement:** Extended learning beyond the classroom by involving hundreds of family members through online lectures.
+*   https://instasize.com/p/1afe2e9b85dd8d10719eb461c00862663bed238167a28a1435c8f4a70f1fd25b
 
 ## 🛠️ Project Artifacts
 

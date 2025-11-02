@@ -1,10 +1,12 @@
 # 1st Scientific Conference for high school students : Do you know your brain?-
 # Brain Awareness Week: Scientific Conference for high school students 
 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A large-scale, interdisciplinary educational project designed to demystify neuroscience for young learners through an immersive scientific conference experience.
+![download (4)](https://github.com/user-attachments/assets/14cd564e-61e0-4c68-bd54-70adb93b1a04)
 
 ---
 
@@ -24,7 +26,7 @@ The conference was modelled on a real academic conference, featuring keynotes fr
 *   **Interactive "Gallery Walk":** A dedicated space showcasing all student competition entries.
 *   **Poster Session:** A formal session where students presented their research posters to peers.
 *   **Community Engagement:** Extended learning beyond the classroom by involving hundreds of family members through online lectures.
-  https://instasize.com/p/1afe2e9b85dd8d10719eb461c00862663bed238167a28a1435c8f4a70f1fd25b
+  
 
 ## 🛠️ Project Artifacts
 
@@ -62,7 +64,7 @@ A large-scale, interdisciplinary educational project designed to demystify neuro
 This portfolio details the organization, execution, and outcomes of the **"Do you know your brain?"** conference, held during Brain Awareness Week. The project transformed a standard school environment into a dynamic hub of scientific inquiry, directly engaging over 770 students, teachers, and family members.
 
 The conference was modelled on a real academic conference, featuring keynotes from international experts, student presentations, hands-on workshops, a 3D model gallery, and a poster session. Its primary goal was to expand knowledge of the human brain and foster a lifelong passion for science in a diverse, age-appropriate manner.
-https://photos.app.goo.gl/bPoymbaraYMt1qY89
+
 ## 🎯 Key Features & Deliverables
 
 *   **Hybrid Conference Model:** Successfully combined in-person workshops and online expert lectures.

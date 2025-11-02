@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A large-scale, interdisciplinary educational project designed to demystify neuroscience for young learners through an immersive scientific conference experience.
+A large-scale, interdisciplinary educational project designed to demystify neuroscience for young learners 
 ![download (4)](https://github.com/user-attachments/assets/14cd564e-61e0-4c68-bd54-70adb93b1a04) ![images (7)](https://github.com/user-attachments/assets/e7068657-9632-4760-8c80-66e96de3134a)
 ![download (6)](https://github.com/user-attachments/assets/b83ca9b5-f626-4e84-b1b3-241f8dd69d84)
 
